@@ -1,0 +1,10 @@
+go defer
+go defer
+go defer
+go defer
+go defer
+go defer
+go defer
+go defer
+go defer
+go defer
