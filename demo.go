@@ -14,4 +14,6 @@ func main() {
     assert(x)
     var y interface{} = "从0到Go语言微服务架构师"
     assert(y)
+
+    println("123")
 }
